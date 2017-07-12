@@ -3,7 +3,7 @@
 		O Sistema de Algemas conta com uma maneira realista de algemar
 		pessoas dentro do modo de jogo SA-MP, acompanhado de um controle
 		de tais ações de maneira fácil e completa.
- 
+
 	Copyright (C) 2016  Bruno Travi(Bruno13)
 
 	This program is free software: you can redistribute it and/or modify
