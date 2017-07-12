@@ -1,4 +1,4 @@
-/*
+/*e
 	Handcuffs System(Sistema de algemas)
 		O Sistema de Algemas conta com uma maneira realista de algemar
 		pessoas dentro do modo de jogo SA-MP, acompanhado de um controle
